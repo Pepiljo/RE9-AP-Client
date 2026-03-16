@@ -1,0 +1,1405 @@
+{
+  "total_items": 200,
+  "items": [
+    {
+      "id": "it00_00_000",
+      "name": "Green Herb",
+      "category": "Heal",
+      "sort_category": "Drag",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it00_00_100",
+      "name": "Mixed Herb (G+G)",
+      "category": "Heal",
+      "sort_category": "Drag",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it00_00_200",
+      "name": "Mixed Herb (G+G+G)",
+      "category": "Heal",
+      "sort_category": "Drag",
+      "sort_sub_category": "Heal_Herb"
+    },
+    {
+      "id": "it00_01_000",
+      "name": "Med Injector",
+      "category": "Heal",
+      "sort_category": "Drag",
+      "sort_sub_category": "Heal_Herb"
+    },
+    {
+      "id": "it10_00_000",
+      "name": "Matilda IMP",
+      "category": "Weapon",
+      "sort_category": "MainWeapon",
+      "sort_sub_category": "Weapon_HG"
+    },
+    {
+      "id": "it10_00_001",
+      "name": "S&S M232",
+      "category": "Weapon",
+      "sort_category": "MainWeapon",
+      "sort_sub_category": "Weapon_HG"
+    },
+    {
+      "id": "it10_00_002",
+      "name": "Silencer 9",
+      "category": "Weapon",
+      "sort_category": "MainWeapon",
+      "sort_sub_category": "Weapon_HG"
+    },
+    {
+      "id": "it10_00_003",
+      "name": "B934",
+      "category": "Weapon",
+      "sort_category": "MainWeapon",
+      "sort_sub_category": "Weapon_HG"
+    },
+    {
+      "id": "it10_00_004",
+      "name": "Redemption",
+      "category": "Weapon",
+      "sort_category": "MainWeapon",
+      "sort_sub_category": "Weapon_HG"
+    },
+    {
+      "id": "it10_00_005",
+      "name": "Ghost Grudge",
+      "category": "Weapon",
+      "sort_category": "MainWeapon",
+      "sort_sub_category": "Weapon_HG"
+    },
+    {
+      "id": "it10_00_006",
+      "name": "Alligator Snapper",
+      "category": "Weapon",
+      "sort_category": "MainWeapon",
+      "sort_sub_category": "Weapon_HG"
+    },
+    {
+      "id": "it10_01_000",
+      "name": "MSBG 500",
+      "category": "Weapon",
+      "sort_category": "MainWeapon",
+      "sort_sub_category": "Weapon_SG"
+    },
+    {
+      "id": "it10_01_002",
+      "name": "W870 Police",
+      "category": "Weapon",
+      "sort_category": "MainWeapon",
+      "sort_sub_category": "Weapon_SG"
+    },
+    {
+      "id": "it10_01_003",
+      "name": "990-TAC",
+      "category": "Weapon",
+      "sort_category": "MainWeapon",
+      "sort_sub_category": "Weapon_SG"
+    },
+    {
+      "id": "it10_02_000",
+      "name": "Requiem",
+      "category": "Weapon",
+      "sort_category": "MainWeapon",
+      "sort_sub_category": "Weapon_MAG"
+    },
+    {
+      "id": "it10_03_000",
+      "name": "Gal",
+      "category": "Weapon",
+      "sort_category": "MainWeapon",
+      "sort_sub_category": "Weapon_SMG"
+    },
+    {
+      "id": "it10_03_001",
+      "name": "Stiri REVO3 A1",
+      "category": "Weapon",
+      "sort_category": "MainWeapon",
+      "sort_sub_category": "Weapon_SMG"
+    },
+    {
+      "id": "it10_03_003",
+      "name": "Freya's Needle",
+      "category": "Weapon",
+      "sort_category": "MainWeapon",
+      "sort_sub_category": "Weapon_SMG"
+    },
+    {
+      "id": "it10_04_000",
+      "name": "RPG-7",
+      "category": "SubWeapon",
+      "sort_category": "SubWeapon",
+      "sort_sub_category": "Weapon_SP"
+    },
+    {
+      "id": "it10_05_000",
+      "name": "Classic 70",
+      "category": "Weapon",
+      "sort_category": "MainWeapon",
+      "sort_sub_category": "Weapon_SR"
+    },
+    {
+      "id": "it10_05_001",
+      "name": "Marksman 1A",
+      "category": "Weapon",
+      "sort_category": "MainWeapon",
+      "sort_sub_category": "Weapon_SR"
+    },
+    {
+      "id": "it10_05_002",
+      "name": "Clatter Carbine",
+      "category": "Weapon",
+      "sort_category": "MainWeapon",
+      "sort_sub_category": "Weapon_AR"
+    },
+    {
+      "id": "it10_10_000",
+      "name": "Chainsaw",
+      "category": "Weapon",
+      "sort_category": "MainWeapon",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it10_10_001",
+      "name": "Fire Poker",
+      "category": "Weapon",
+      "sort_category": "MainWeapon",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it10_10_002",
+      "name": "Disposal Tank",
+      "category": "Weapon",
+      "sort_category": "MainWeapon",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it10_20_001",
+      "name": "Hatchet",
+      "category": "Weapon",
+      "sort_category": "SubWeapon",
+      "sort_sub_category": "SubWeapon_Combat"
+    },
+    {
+      "id": "it10_20_003",
+      "name": "Makeshift Knife",
+      "category": "Weapon",
+      "sort_category": "SubWeapon",
+      "sort_sub_category": "SubWeapon_Combat"
+    },
+    {
+      "id": "it10_20_005",
+      "name": "Hunting Knife",
+      "category": "Weapon",
+      "sort_category": "SubWeapon",
+      "sort_sub_category": "SubWeapon_Combat"
+    },
+    {
+      "id": "it10_20_006",
+      "name": "Mortal Edge",
+      "category": "Weapon",
+      "sort_category": "SubWeapon",
+      "sort_sub_category": "SubWeapon_Combat"
+    },
+    {
+      "id": "it10_20_007",
+      "name": "R.I.P. Knife",
+      "category": "Weapon",
+      "sort_category": "SubWeapon",
+      "sort_sub_category": "SubWeapon_Combat"
+    },
+    {
+      "id": "it10_20_008",
+      "name": "Kotetsu",
+      "category": "Weapon",
+      "sort_category": "SubWeapon",
+      "sort_sub_category": "SubWeapon_Combat"
+    },
+    {
+      "id": "it10_30_000",
+      "name": "Body Armor Lv.I",
+      "category": "Armor",
+      "sort_category": "Undefined",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it10_30_001",
+      "name": "Body Armor Lv.II",
+      "category": "Armor",
+      "sort_category": "Undefined",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it10_30_002",
+      "name": "Body Armor Lv.III",
+      "category": "Armor",
+      "sort_category": "Undefined",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it20_00_000",
+      "name": "Hand Grenade",
+      "category": "SubWeapon",
+      "sort_category": "SubWeapon",
+      "sort_sub_category": "SubWeapon_Throwing"
+    },
+    {
+      "id": "it20_00_002",
+      "name": "Molotov Cocktail",
+      "category": "SubWeapon",
+      "sort_category": "SubWeapon",
+      "sort_sub_category": "SubWeapon_Throwing"
+    },
+    {
+      "id": "it20_00_003",
+      "name": "Empty Bottle",
+      "category": "SubWeapon",
+      "sort_category": "SubWeapon",
+      "sort_sub_category": "SubWeapon_Throwing"
+    },
+    {
+      "id": "it20_00_004",
+      "name": "Stacked Hand Grenade",
+      "category": "SubWeapon",
+      "sort_category": "SubWeapon",
+      "sort_sub_category": "SubWeapon_Throwing"
+    },
+    {
+      "id": "it20_00_005",
+      "name": "Bottle of Acid",
+      "category": "SubWeapon",
+      "sort_category": "SubWeapon",
+      "sort_sub_category": "SubWeapon_Throwing"
+    },
+    {
+      "id": "it30_00_100",
+      "name": "High-Capacity Mag.",
+      "category": "Attachment",
+      "sort_category": "Parts",
+      "sort_sub_category": "Weapon_HG"
+    },
+    {
+      "id": "it30_00_101",
+      "name": "Silver Tube Extension",
+      "category": "Attachment",
+      "sort_category": "Parts",
+      "sort_sub_category": "Weapon_SG"
+    },
+    {
+      "id": "it30_00_102",
+      "name": "High-Capacity Mag.",
+      "category": "Attachment",
+      "sort_category": "Parts",
+      "sort_sub_category": "Weapon_SMG"
+    },
+    {
+      "id": "it30_00_103",
+      "name": "High-Capacity Mag.",
+      "category": "Attachment",
+      "sort_category": "Parts",
+      "sort_sub_category": "Weapon_HG"
+    },
+    {
+      "id": "it30_00_104",
+      "name": "Carbon Tube Extension",
+      "category": "Attachment",
+      "sort_category": "Parts",
+      "sort_sub_category": "Weapon_SG"
+    },
+    {
+      "id": "it30_00_105",
+      "name": "High-Capacity Mag.",
+      "category": "Attachment",
+      "sort_category": "Parts",
+      "sort_sub_category": "Weapon_SR"
+    },
+    {
+      "id": "it30_00_106",
+      "name": "High-Capacity Mag.",
+      "category": "Attachment",
+      "sort_category": "Parts",
+      "sort_sub_category": "Weapon_SMG"
+    },
+    {
+      "id": "it30_00_107",
+      "name": "Titanium Magazine Catch",
+      "category": "Attachment",
+      "sort_category": "Parts",
+      "sort_sub_category": "Weapon_SMG"
+    },
+    {
+      "id": "it30_00_108",
+      "name": "High-Capacity Mag.",
+      "category": "Attachment",
+      "sort_category": "Parts",
+      "sort_sub_category": "Weapon_HG"
+    },
+    {
+      "id": "it30_00_109",
+      "name": "Slick Magazine Catch",
+      "category": "Attachment",
+      "sort_category": "Parts",
+      "sort_sub_category": "Weapon_HG"
+    },
+    {
+      "id": "it30_00_200",
+      "name": "Burst Stock",
+      "category": "Attachment",
+      "sort_category": "Parts",
+      "sort_sub_category": "Weapon_HG"
+    },
+    {
+      "id": "it30_00_201",
+      "name": "Chrome Stock",
+      "category": "Attachment",
+      "sort_category": "Parts",
+      "sort_sub_category": "Weapon_SG"
+    },
+    {
+      "id": "it30_00_202",
+      "name": "Premier Stock",
+      "category": "Attachment",
+      "sort_category": "Parts",
+      "sort_sub_category": "Weapon_SR"
+    },
+    {
+      "id": "it30_00_203",
+      "name": "Folding Stock",
+      "category": "Attachment",
+      "sort_category": "Parts",
+      "sort_sub_category": "Weapon_SMG"
+    },
+    {
+      "id": "it30_00_204",
+      "name": "Stock",
+      "category": "Attachment",
+      "sort_category": "Parts",
+      "sort_sub_category": "Weapon_SG"
+    },
+    {
+      "id": "it30_00_205",
+      "name": "Weighted Grip",
+      "category": "Attachment",
+      "sort_category": "Parts",
+      "sort_sub_category": "Weapon_MAG"
+    },
+    {
+      "id": "it30_00_300",
+      "name": "Hair Trigger",
+      "category": "Attachment",
+      "sort_category": "Parts",
+      "sort_sub_category": "Weapon_SR"
+    },
+    {
+      "id": "it30_00_301",
+      "name": "Aluminum Trigger",
+      "category": "Attachment",
+      "sort_category": "Parts",
+      "sort_sub_category": "Weapon_HG"
+    },
+    {
+      "id": "it30_00_302",
+      "name": "Duralumin Bolt",
+      "category": "Attachment",
+      "sort_category": "Parts",
+      "sort_sub_category": "Weapon_SG"
+    },
+    {
+      "id": "it30_00_303",
+      "name": "Duralumin Action Bar",
+      "category": "Attachment",
+      "sort_category": "Parts",
+      "sort_sub_category": "Weapon_SG"
+    },
+    {
+      "id": "it30_00_304",
+      "name": "Duckbill Choke",
+      "category": "Attachment",
+      "sort_category": "Parts",
+      "sort_sub_category": "Weapon_SG"
+    },
+    {
+      "id": "it30_00_305",
+      "name": "Reinforced Bolt",
+      "category": "Attachment",
+      "sort_category": "Parts",
+      "sort_sub_category": "Weapon_SR"
+    },
+    {
+      "id": "it30_00_306",
+      "name": "Titanium Bolt",
+      "category": "Attachment",
+      "sort_category": "Parts",
+      "sort_sub_category": "Weapon_SMG"
+    },
+    {
+      "id": "it30_00_307",
+      "name": "Barrel Jacket",
+      "category": "Attachment",
+      "sort_category": "Parts",
+      "sort_sub_category": "Weapon_MAG"
+    },
+    {
+      "id": "it30_00_308",
+      "name": "Fortified Blade",
+      "category": "Attachment",
+      "sort_category": "Parts",
+      "sort_sub_category": "SubWeapon_Combat"
+    },
+    {
+      "id": "it30_00_309",
+      "name": "Improved Grip",
+      "category": "Attachment",
+      "sort_category": "Parts",
+      "sort_sub_category": "SubWeapon_Combat"
+    },
+    {
+      "id": "it30_00_310",
+      "name": "Balanced Spring",
+      "category": "Attachment",
+      "sort_category": "Parts",
+      "sort_sub_category": "Weapon_SG"
+    },
+    {
+      "id": "it30_00_311",
+      "name": "Enhanced Leaf Spring",
+      "category": "Attachment",
+      "sort_category": "Parts",
+      "sort_sub_category": "Weapon_SR"
+    },
+    {
+      "id": "it30_00_400",
+      "name": "Standard Scope",
+      "category": "Attachment",
+      "sort_category": "Parts",
+      "sort_sub_category": "Weapon_SR"
+    },
+    {
+      "id": "it30_00_401",
+      "name": "Silver Finish Scope",
+      "category": "Attachment",
+      "sort_category": "Parts",
+      "sort_sub_category": "Weapon_SR"
+    },
+    {
+      "id": "it30_00_402",
+      "name": "Dot Sight",
+      "category": "Attachment",
+      "sort_category": "Parts",
+      "sort_sub_category": "Weapon_HG"
+    },
+    {
+      "id": "it30_00_403",
+      "name": "Dot Sight",
+      "category": "Attachment",
+      "sort_category": "Parts",
+      "sort_sub_category": "Weapon_SMG"
+    },
+    {
+      "id": "it30_00_404",
+      "name": "Dot Sight",
+      "category": "Attachment",
+      "sort_category": "Parts",
+      "sort_sub_category": "Weapon_SG"
+    },
+    {
+      "id": "it30_00_405",
+      "name": "Semi-auto Scope",
+      "category": "Attachment",
+      "sort_category": "Parts",
+      "sort_sub_category": "Weapon_SR"
+    },
+    {
+      "id": "it30_00_406",
+      "name": "Dot Sight",
+      "category": "Attachment",
+      "sort_category": "Parts",
+      "sort_sub_category": "Weapon_SP"
+    },
+    {
+      "id": "it30_00_407",
+      "name": "Dot Sight",
+      "category": "Attachment",
+      "sort_category": "Parts",
+      "sort_sub_category": "Weapon_HG"
+    },
+    {
+      "id": "it30_00_500",
+      "name": "Long Compensator",
+      "category": "Attachment",
+      "sort_category": "Parts",
+      "sort_sub_category": "Weapon_HG"
+    },
+    {
+      "id": "it30_00_501",
+      "name": "Chrome Barrel",
+      "category": "Attachment",
+      "sort_category": "Parts",
+      "sort_sub_category": "Weapon_SG"
+    },
+    {
+      "id": "it30_00_502",
+      "name": "PVD Barrel",
+      "category": "Attachment",
+      "sort_category": "Parts",
+      "sort_sub_category": "Weapon_SR"
+    },
+    {
+      "id": "it30_00_503",
+      "name": "Long Flash Guard",
+      "category": "Attachment",
+      "sort_category": "Parts",
+      "sort_sub_category": "Weapon_SMG"
+    },
+    {
+      "id": "it30_00_504",
+      "name": "Add-on Suppressor",
+      "category": "Attachment",
+      "sort_category": "Parts",
+      "sort_sub_category": "Weapon_HG"
+    },
+    {
+      "id": "it30_00_505",
+      "name": "Ceramic Coated Barrel",
+      "category": "Attachment",
+      "sort_category": "Parts",
+      "sort_sub_category": "Weapon_SG"
+    },
+    {
+      "id": "it30_00_506",
+      "name": "Ported Barrel",
+      "category": "Attachment",
+      "sort_category": "Parts",
+      "sort_sub_category": "Weapon_MAG"
+    },
+    {
+      "id": "it30_00_507",
+      "name": "Compensator",
+      "category": "Attachment",
+      "sort_category": "Parts",
+      "sort_sub_category": "Weapon_HG"
+    },
+    {
+      "id": "it30_00_701",
+      "name": "Trusted Companion Charm",
+      "category": "Charm",
+      "sort_category": "Undefined",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it30_00_702",
+      "name": "Connoisseur Charm",
+      "category": "Charm",
+      "sort_category": "Undefined",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it30_00_703",
+      "name": "Cute Bear Charm",
+      "category": "Charm",
+      "sort_category": "Undefined",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it30_00_704",
+      "name": "BSAA Emblem Charm",
+      "category": "Charm",
+      "sort_category": "Undefined",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it30_00_705",
+      "name": "S.T.A.R.S. Emblem Charm",
+      "category": "Charm",
+      "sort_category": "Undefined",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it30_00_706",
+      "name": "Power Shades Charm",
+      "category": "Charm",
+      "sort_category": "Undefined",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it40_00_000",
+      "name": "Handgun Ammo",
+      "category": "Ammo",
+      "sort_category": "Ammo",
+      "sort_sub_category": "Weapon_HG"
+    },
+    {
+      "id": "it40_01_000",
+      "name": "Shotgun Shells",
+      "category": "Ammo",
+      "sort_category": "Ammo",
+      "sort_sub_category": "Weapon_SG"
+    },
+    {
+      "id": "it40_02_000",
+      "name": "12.7x55mm Ammo",
+      "category": "Ammo",
+      "sort_category": "Ammo",
+      "sort_sub_category": "Weapon_MAG"
+    },
+    {
+      "id": "it40_03_000",
+      "name": "Machine Gun Ammo",
+      "category": "Ammo",
+      "sort_category": "Ammo",
+      "sort_sub_category": "Weapon_SMG"
+    },
+    {
+      "id": "it40_05_000",
+      "name": "Rifle Ammo",
+      "category": "Ammo",
+      "sort_category": "Ammo",
+      "sort_sub_category": "Weapon_SR"
+    },
+    {
+      "id": "it40_20_001",
+      "name": "Melee Weapon Durability",
+      "category": "Ammo",
+      "sort_category": "Ammo",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it50_00_001",
+      "name": "Gunpowder (Small)",
+      "category": "Material",
+      "sort_category": "Material",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it50_00_002",
+      "name": "Scrap",
+      "category": "Material",
+      "sort_category": "Material",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it50_00_006",
+      "name": "Rare Metal",
+      "category": "Material",
+      "sort_category": "Material",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it50_00_012",
+      "name": "Ink Ribbon Tin",
+      "category": "Material",
+      "sort_category": "Material",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it50_00_014",
+      "name": "Gunpowder (Large)",
+      "category": "Material",
+      "sort_category": "Material",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it50_00_017",
+      "name": "Empty Ink Ribbon",
+      "category": "Material",
+      "sort_category": "Material",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it50_00_018",
+      "name": "Empty Injector",
+      "category": "Material",
+      "sort_category": "Material",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_002",
+      "name": "Bolt Cutters",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_004",
+      "name": "Pencil",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_013",
+      "name": "Cherub Key",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_038",
+      "name": "Joint Plug",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_039",
+      "name": "Screwdriver",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_040",
+      "name": "Fuse",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_041",
+      "name": "Square Socket Wrench",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_042",
+      "name": "Forklift Key",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_045",
+      "name": "West Wing Keycard",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_046",
+      "name": "East Wing Keycard",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_047",
+      "name": "Red Jewel",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_048",
+      "name": "Sun Quartz",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_049",
+      "name": "Moon Quartz",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_050",
+      "name": "Star Quartz",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_051",
+      "name": "Artificial Heart",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_053",
+      "name": "Artificial Lungs",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_055",
+      "name": "ID Wristband (Level 1)",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_063",
+      "name": "Corrosive",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_064",
+      "name": "Blood Specimen (Denatured)",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_065",
+      "name": "Blood Specimen (Converged)",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_067",
+      "name": "Blood Specimen (Reversible)",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_068",
+      "name": "ID Wristband (Level 2)",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_069",
+      "name": "Pantry Key",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_073",
+      "name": "Organ Transport Box",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_074",
+      "name": "Wrench",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_075",
+      "name": "ID Wristband (Level 3)",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_076",
+      "name": "Wire Cutters",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_077",
+      "name": "Unicorn Trinket Box",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_080",
+      "name": "Emergency Exit Key",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_081",
+      "name": "Helicopter Key",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_082",
+      "name": "Investigation Report",
+      "category": "Other",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_083",
+      "name": "Photo of Grace",
+      "category": "Other",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_084",
+      "name": "Severed Hand",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_085",
+      "name": "Hourglass",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_086",
+      "name": "Double Helix Model",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_087",
+      "name": "Hatch Key",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_088",
+      "name": "Fire Poker",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_089",
+      "name": "Old Key",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_090",
+      "name": "Mechanic Jack",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_091",
+      "name": "BSAA Container Key",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_092",
+      "name": "Battery",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_093",
+      "name": "Gas Can",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_094",
+      "name": "Cedarbrook Apartments Key",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_095",
+      "name": "Gas Can with Fuel",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_096",
+      "name": "Signal Receiver",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_097",
+      "name": "Distributor",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_098",
+      "name": "Relay",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_103",
+      "name": "Rusty Crank",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_104",
+      "name": "Valve Handwheel",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_105",
+      "name": "Animus Orb",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_107",
+      "name": "Noblesse Orb",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_108",
+      "name": "Broken Signal Receiver",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_109",
+      "name": "Repair Kit",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_110",
+      "name": "Locker Key",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_111",
+      "name": "Crank Lever",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_112",
+      "name": "Magnetic Key",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_113",
+      "name": "Override Key (Dump Control Room)",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_114",
+      "name": "Override Key (Bioweapon Repository 11)",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_115",
+      "name": "Distributor & Broken Signal Receiver",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_116",
+      "name": "Damaged Detonator",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_117",
+      "name": "Distributor & Signal Receiver",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_118",
+      "name": "Distributor & Relay",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_119",
+      "name": "Detonator",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_120",
+      "name": "Blood Specimen (Polymerized)",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_121",
+      "name": "Marie's Doll",
+      "category": "KeyItem",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it60_00_122",
+      "name": "Leatherbound Notebook",
+      "category": "Other",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it70_01_000",
+      "name": "Infected Blood",
+      "category": "Procedure",
+      "sort_category": "Undefined",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it70_03_000",
+      "name": "Body Armor Repair",
+      "category": "Procedure",
+      "sort_category": "Undefined",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it99_00_001",
+      "name": "West Wing Map (Admin Offices)",
+      "category": "Map",
+      "sort_category": "Undefined",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it99_00_002",
+      "name": "East Wing Map (Hospital Wards)",
+      "category": "Map",
+      "sort_category": "Undefined",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it99_00_004",
+      "name": "The Wrenwood Hotel Floor Plan",
+      "category": "Map",
+      "sort_category": "Undefined",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it99_00_006",
+      "name": "Care Center Basement Floor Plan",
+      "category": "Map",
+      "sort_category": "Undefined",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it99_00_007",
+      "name": "Raccoon Roundup Map (Wrenwood)",
+      "category": "Map",
+      "sort_category": "Undefined",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it99_00_008",
+      "name": "Raccoon Roundup Map (Rhodes Hill)",
+      "category": "Map",
+      "sort_category": "Undefined",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it99_00_009",
+      "name": "Raccoon Roundup Map (Raccoon City)",
+      "category": "Map",
+      "sort_category": "Undefined",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it99_00_010",
+      "name": "Raccoon Roundup Map (ARK)",
+      "category": "Map",
+      "sort_category": "Undefined",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it99_01_000",
+      "name": "Hip Pouch",
+      "category": "Procedure",
+      "sort_category": "Undefined",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it99_01_001",
+      "name": "Case Upgrade (8x13)",
+      "category": "Procedure",
+      "sort_category": "Undefined",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it99_02_002",
+      "name": "Steroids",
+      "category": "Other",
+      "sort_category": "Undefined",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it99_02_004",
+      "name": "Stabilizer",
+      "category": "Other",
+      "sort_category": "Undefined",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it99_05_000",
+      "name": "Lighter",
+      "category": "Flag",
+      "sort_category": "Undefined",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it99_05_001",
+      "name": "Flashlight",
+      "category": "Flag",
+      "sort_category": "Undefined",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it99_06_000",
+      "name": "Blood Collector",
+      "category": "Storage",
+      "sort_category": "Material",
+      "sort_sub_category": "Material_Blood"
+    },
+    {
+      "id": "it99_06_003",
+      "name": "Blood Collector",
+      "category": "Storage",
+      "sort_category": "Material",
+      "sort_sub_category": "Material_Blood"
+    },
+    {
+      "id": "it99_06_004",
+      "name": "Transfusion Bag",
+      "category": "Storage",
+      "sort_category": "Undefined",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it99_06_010",
+      "name": "Blood Collector",
+      "category": "Storage",
+      "sort_category": "Material",
+      "sort_sub_category": "Material_Blood"
+    },
+    {
+      "id": "it99_07_001",
+      "name": "Stakeout Takeout Charm",
+      "category": "Charm",
+      "sort_category": "Undefined",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it99_07_002",
+      "name": "Rugged Rookie Charm",
+      "category": "Charm",
+      "sort_category": "Undefined",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it99_07_003",
+      "name": "Eye Spy Charm",
+      "category": "Charm",
+      "sort_category": "Undefined",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it99_50_001",
+      "name": "Hemolytic Injector",
+      "category": "Other",
+      "sort_category": "SubWeapon",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it99_50_003",
+      "name": "Ink Ribbon",
+      "category": "Other",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "KeyItem_Stack"
+    },
+    {
+      "id": "it99_50_005",
+      "name": "Antique Coin",
+      "category": "Other",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "KeyItem_Stack"
+    },
+    {
+      "id": "it99_50_006",
+      "name": "Lockpick",
+      "category": "Other",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "KeyItem_Stack"
+    },
+    {
+      "id": "it99_50_007",
+      "name": "Tactical Tracker",
+      "category": "Storage",
+      "sort_category": "Undefined",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it99_50_008",
+      "name": "Tracking Module (Common)",
+      "category": "Storage",
+      "sort_category": "Undefined",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it99_50_009",
+      "name": "Tactical Tracker (Modded)",
+      "category": "Storage",
+      "sort_category": "Undefined",
+      "sort_sub_category": "Undefined"
+    },
+    {
+      "id": "it99_50_010",
+      "name": "Infinite Ribbon",
+      "category": "Other",
+      "sort_category": "KeyItem",
+      "sort_sub_category": "KeyItem_Stack"
+    },
+    {
+      "id": "it99_50_011",
+      "name": "Override Manual",
+      "category": "Flag",
+      "sort_category": "Undefined",
+      "sort_sub_category": "Undefined"
+    }
+  ]
+}
