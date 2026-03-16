@@ -6,7 +6,7 @@ Archipelago client research and REFramework Lua tooling for **Resident Evil Requ
 
 This repository currently targets the inventory injection pipeline needed for Archipelago-style item delivery.
 
-##Testing
+## Testing
 - Testing is currently done by moving the scripts from the randomizer folder to the autorun folder. Test every Script one by one for functionality.
 
 ## Docs
