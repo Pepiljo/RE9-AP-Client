@@ -6,19 +6,8 @@ Archipelago client research and REFramework Lua tooling for **Resident Evil Requ
 
 This repository currently targets the inventory injection pipeline needed for Archipelago-style item delivery.
 
-## Included scripts
-
-- `scripts/re9_inventory_probe.lua`
-  - Enumerates internal inventories via `_Inventories._entries`
-  - Dumps per-inventory counts
-  - Finds chest candidate using `_NextKey` heuristic
-  - Can hook likely merge/add methods for call-hit discovery
-
-- `scripts/re9_item_injector.lua`
-  - Builds on probe data
-  - Chooses chest inventory candidate
-  - Tries manager-first insertion signatures and inventory-level fallback
-  - Supports `dry_run` mode for safe probing
+##Testing
+- Testing is currently done by moving the scripts from the randomizer folder to the autorun folder. Test every Script one by one for functionality.
 
 ## Docs
 
