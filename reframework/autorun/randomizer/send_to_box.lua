@@ -53,7 +53,6 @@ local function load_item_db()
     if item_db_loaded then return end
 
     local paths = {
-        "reframework/data/item_list.json",
         "item_list.json",
     }
 
