@@ -12,3 +12,8 @@ This repository currently targets the inventory injection pipeline needed for Ar
 ## Docs
 
 - `docs/reverse-engineering-next-steps.md` for the recommended live reverse-engineering workflow.
+
+
+
+## Special Thanks
+- Fuzzy for his work on the RE2R AP Client. This Project uses most of his work as a base.
