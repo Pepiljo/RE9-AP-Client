@@ -16,4 +16,4 @@ This repository currently targets the inventory injection pipeline needed for Ar
 
 
 ## Special Thanks
-- Fuzzy for his work on the RE2R AP Client. This Project uses most of his work as a base.
+- Fuzzy for his work on the RE2R AP Client. This Project uses most of his work on the APClient as a base.
